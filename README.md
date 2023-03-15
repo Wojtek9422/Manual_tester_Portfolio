@@ -19,6 +19,6 @@
 
 # Test case example
 
-[Test case example](https://docs.google.com/spreadsheets/d/1J_fWnqjXvYBRY2ICh7-8O1ZMlAdYVKe6/edit?usp=sharing&ouid=106314430256427095697&rtpof=true&sd=true)
+* [Test case example](https://docs.google.com/spreadsheets/d/1J_fWnqjXvYBRY2ICh7-8O1ZMlAdYVKe6/edit?usp=sharing&ouid=106314430256427095697&rtpof=true&sd=true)
 
-[Test case example](https://github.com/Wojtek9422/Test_case)
+* [Test case example](https://github.com/Wojtek9422/Test_case)
